@@ -1,6 +1,6 @@
 {% set name = "hyperframe" %}
-{% set version = "5.1.0" %}
-{% set sha256 = "a25944539db36d6a2e47689e7915dcee562b3f8d10c6cdfa0d53c91ed692fb04" %}
+{% set version = "3.2.0" %}
+{% set sha256 = "05f0e063e117c16fcdd13c12c93a4424a2c40668abfac3bb419a10f57698204e" %}
 
 package:
   name: {{ name|lower }}
